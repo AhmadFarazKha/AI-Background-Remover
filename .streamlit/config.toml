@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#007bff" # A vibrant blue for primary elements
+backgroundColor="#1e1e2f" # Dark purple-blue background
+secondaryBackgroundColor="#2a2a40" # Slightly lighter dark for components
+textColor="#f0f0f0" # Off-white text
+font="sans serif"
